@@ -8,7 +8,12 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>file-cmds</package>
+		<package>zip</package>
+		<package>unzip</package>
+		<package>p7zip</package>
+		<package>unrar</package>
+		<package>diskdev-cmds</package>
 	</dependencies>
 	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
 	<descriptionlist>
